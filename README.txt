@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Shin et al., "The rate of transient beta frequency events predicts behavior across tasks and species". eLife, 2017. http://dx.doi.org/10.7554/eLife.29086
+
+
 This code was written by Hyeyoung Shin, Department of Neuroscience, Brown University.
 Please direct correspondence to shinehyeyoung@gmail.com
 
